@@ -1,0 +1,6 @@
+{
+  "name": "Maharaja Institute of Technology - Attendance & Shortage Warning System",
+  "description": "Official attendance tracking, USN/DOB authentication portal, automated shortage warning dispatch, and bunk recovery system for Maharaja Institute of Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
